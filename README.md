@@ -16,5 +16,5 @@ We recommend filtering the issues in this repository by team to have a more pare
 Contribution Guidelines
 If you would like to contribute to the work outlined in the Carpentries Understood Recommendations repository, there are three ways you can do so:
 Comment on an open issue in this repository. This is appropriate if you would like to provide feedback on one of the current projects/ongoing work currently listed in the issues.
-File a new issue in this repository. This is appropriate if you would like to start a new conversation about a suggestion you have, ask a question about ongoing work, or give feedback about an issue that has not been previously filed in this repository.
+File a new [issue](https://github.com/carpentries/understood-recommendations/issues) in this repository. This is appropriate if you would like to start a new conversation about a suggestion you have, ask a question about ongoing work, or give feedback about an issue that has not been previously filed in this repository.
 Send us an email. This is appropriate for communicating directly with the Core Team about Accessibility related to the Carpentries. Brynn Elliott, Accessibility Manager will be the lead from the Core Team. 
