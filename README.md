@@ -6,7 +6,7 @@ One of The Carpentries strategic focus areas is to intentionally incorporate equ
 To do this, we teamed up with [Understood](https://www.understood.org/), whose mission is to shape workplaces to be inclusive for people with disabilities, to better understand where The Carpentries could improve accessibility for the community and what we are already doing well. Understood evaluated organisational statements and policies, employee processes (hiring, onboarding, workflows), and observed a three-day Software Carpentry workshop. 
 
 This repository is organized as follows:
-issue: information about projects and ongoing work The Carpentries is undertaking related to accessibility. Each issue is tagged with one or more labels:
+- issue: information about projects and ongoing work The Carpentries is undertaking related to accessibility. Each issue is tagged with one or more labels:
 team - identifies which team or focus area the work will apply too(i.e. Instructor Training, Workshops, General, hiring-onboarding)
 Exploring the Issues in this Repository
 We recommend filtering the issues in this repository by team to have a more pared down understanding of the work that is being done. 
