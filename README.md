@@ -3,7 +3,7 @@ This repository contains documentation on progress The Carpentries is making tow
 
 One of The Carpentries strategic focus areas is to intentionally incorporate equity, inclusion, and accessibility to support a diverse community.  
 
-To do this, we teamed up with Understood, whose mission is to shape workplaces to be inclusive for people with disabilities, to better understand where The Carpentries could improve accessibility for the community and what we are already doing well. Understood evaluated organisational statements and policies, employee processes (hiring, onboarding, workflows), and observed a three-day Software Carpentry workshop. 
+To do this, we teamed up with [Understood](https://www.understood.org/), whose mission is to shape workplaces to be inclusive for people with disabilities, to better understand where The Carpentries could improve accessibility for the community and what we are already doing well. Understood evaluated organisational statements and policies, employee processes (hiring, onboarding, workflows), and observed a three-day Software Carpentry workshop. 
 
 This repository is organized as follows:
 issue: information about projects and ongoing work The Carpentries is undertaking related to accessibility. Each issue is tagged with one or more labels:
