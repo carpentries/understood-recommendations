@@ -1,5 +1,5 @@
 # understood-recommendations
-This repository contains documentation on progress The Carpentries is making towards being more Accessible. It is intended to provide transparency to the Carpentries community. 
+This repository contains documentation on progress The Carpentries is making towards being more accessible. It is intended to provide transparency to the Carpentries community. 
 
 One of The Carpentries strategic focus areas is to intentionally incorporate equity, inclusion, and accessibility to support a diverse community.  
 
