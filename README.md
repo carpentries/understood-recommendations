@@ -7,7 +7,10 @@ To do this, we teamed up with [Understood](https://www.understood.org/), whose m
 
 This repository is organized as follows:
 - issue: information about projects and ongoing work The Carpentries is undertaking related to accessibility. Each issue is tagged with one or more labels:
-team - identifies which team or focus area the work will apply too(i.e. Instructor Training, Workshops, General, hiring-onboarding)
+     - [general](https://github.com/carpentries/understood-recommendations/labels/general): work related to our website or communications in general
+     - [hiring-onboarding](https://github.com/carpentries/understood-recommendations/labels/hiring-onboarding): work related to hiring and onboarding of Core Team members
+     - [Instructor-Training](https://github.com/carpentries/understood-recommendations/labels/Instructor-Training): related to the work of our Instructor Training team
+     - [Workshops](https://github.com/carpentries/understood-recommendations/labels/Workshops): related to the work of our Workshop Administration Team
 Exploring the Issues in this Repository
 We recommend filtering the issues in this repository by team to have a more pared down understanding of the work that is being done. 
 Contribution Guidelines
